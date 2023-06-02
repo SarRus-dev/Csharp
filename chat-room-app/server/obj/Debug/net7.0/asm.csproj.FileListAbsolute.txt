@@ -1,0 +1,60 @@
+C:\Users\NgocTruong\Desktop\chat rom\asm\bin\Debug\net7.0\asm.exe
+C:\Users\NgocTruong\Desktop\chat rom\asm\bin\Debug\net7.0\asm.deps.json
+C:\Users\NgocTruong\Desktop\chat rom\asm\bin\Debug\net7.0\asm.runtimeconfig.json
+C:\Users\NgocTruong\Desktop\chat rom\asm\bin\Debug\net7.0\asm.dll
+C:\Users\NgocTruong\Desktop\chat rom\asm\bin\Debug\net7.0\asm.pdb
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\asm.csproj.AssemblyReference.cache
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\asm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\asm.AssemblyInfoInputs.cache
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\asm.AssemblyInfo.cs
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\asm.csproj.CoreCompileInputs.cache
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\asm.dll
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\refint\asm.dll
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\asm.pdb
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\asm.genruntimeconfig.cache
+C:\Users\NgocTruong\Desktop\chat rom\asm\obj\Debug\net7.0\ref\asm.dll
+C:\Users\NgocTruong\Desktop\chat rom\server\bin\Debug\net7.0\asm.exe
+C:\Users\NgocTruong\Desktop\chat rom\server\bin\Debug\net7.0\asm.deps.json
+C:\Users\NgocTruong\Desktop\chat rom\server\bin\Debug\net7.0\asm.runtimeconfig.json
+C:\Users\NgocTruong\Desktop\chat rom\server\bin\Debug\net7.0\asm.dll
+C:\Users\NgocTruong\Desktop\chat rom\server\bin\Debug\net7.0\asm.pdb
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\asm.csproj.AssemblyReference.cache
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\asm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\asm.AssemblyInfoInputs.cache
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\asm.AssemblyInfo.cs
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\asm.csproj.CoreCompileInputs.cache
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\asm.dll
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\refint\asm.dll
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\asm.pdb
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\asm.genruntimeconfig.cache
+C:\Users\NgocTruong\Desktop\chat rom\server\obj\Debug\net7.0\ref\asm.dll
+C:\Users\pc\Downloads\chat rom\server\bin\Debug\net7.0\asm.exe
+C:\Users\pc\Downloads\chat rom\server\bin\Debug\net7.0\asm.deps.json
+C:\Users\pc\Downloads\chat rom\server\bin\Debug\net7.0\asm.runtimeconfig.json
+C:\Users\pc\Downloads\chat rom\server\bin\Debug\net7.0\asm.dll
+C:\Users\pc\Downloads\chat rom\server\bin\Debug\net7.0\asm.pdb
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\asm.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\asm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\asm.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\asm.AssemblyInfo.cs
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\asm.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\asm.dll
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\refint\asm.dll
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\asm.pdb
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\asm.genruntimeconfig.cache
+C:\Users\pc\Downloads\chat rom\server\obj\Debug\net7.0\ref\asm.dll
+C:\Users\pc\hoc code\NetWork\chat rom\server\bin\Debug\net7.0\asm.exe
+C:\Users\pc\hoc code\NetWork\chat rom\server\bin\Debug\net7.0\asm.deps.json
+C:\Users\pc\hoc code\NetWork\chat rom\server\bin\Debug\net7.0\asm.runtimeconfig.json
+C:\Users\pc\hoc code\NetWork\chat rom\server\bin\Debug\net7.0\asm.dll
+C:\Users\pc\hoc code\NetWork\chat rom\server\bin\Debug\net7.0\asm.pdb
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\asm.csproj.AssemblyReference.cache
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\asm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\asm.AssemblyInfoInputs.cache
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\asm.AssemblyInfo.cs
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\asm.csproj.CoreCompileInputs.cache
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\asm.dll
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\refint\asm.dll
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\asm.pdb
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\asm.genruntimeconfig.cache
+C:\Users\pc\hoc code\NetWork\chat rom\server\obj\Debug\net7.0\ref\asm.dll

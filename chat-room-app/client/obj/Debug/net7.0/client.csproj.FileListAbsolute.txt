@@ -1,0 +1,45 @@
+C:\Users\NgocTruong\Desktop\chat rom\client\bin\Debug\net7.0\client.exe
+C:\Users\NgocTruong\Desktop\chat rom\client\bin\Debug\net7.0\client.deps.json
+C:\Users\NgocTruong\Desktop\chat rom\client\bin\Debug\net7.0\client.runtimeconfig.json
+C:\Users\NgocTruong\Desktop\chat rom\client\bin\Debug\net7.0\client.dll
+C:\Users\NgocTruong\Desktop\chat rom\client\bin\Debug\net7.0\client.pdb
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\client.csproj.AssemblyReference.cache
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\client.AssemblyInfoInputs.cache
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\client.AssemblyInfo.cs
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\client.csproj.CoreCompileInputs.cache
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\client.dll
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\refint\client.dll
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\client.pdb
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\client.genruntimeconfig.cache
+C:\Users\NgocTruong\Desktop\chat rom\client\obj\Debug\net7.0\ref\client.dll
+C:\Users\pc\Downloads\chat rom\client\bin\Debug\net7.0\client.exe
+C:\Users\pc\Downloads\chat rom\client\bin\Debug\net7.0\client.deps.json
+C:\Users\pc\Downloads\chat rom\client\bin\Debug\net7.0\client.runtimeconfig.json
+C:\Users\pc\Downloads\chat rom\client\bin\Debug\net7.0\client.dll
+C:\Users\pc\Downloads\chat rom\client\bin\Debug\net7.0\client.pdb
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\client.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\client.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\client.AssemblyInfo.cs
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\client.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\client.dll
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\refint\client.dll
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\client.pdb
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\client.genruntimeconfig.cache
+C:\Users\pc\Downloads\chat rom\client\obj\Debug\net7.0\ref\client.dll
+C:\Users\pc\hoc code\NetWork\chat rom\client\bin\Debug\net7.0\client.exe
+C:\Users\pc\hoc code\NetWork\chat rom\client\bin\Debug\net7.0\client.deps.json
+C:\Users\pc\hoc code\NetWork\chat rom\client\bin\Debug\net7.0\client.runtimeconfig.json
+C:\Users\pc\hoc code\NetWork\chat rom\client\bin\Debug\net7.0\client.dll
+C:\Users\pc\hoc code\NetWork\chat rom\client\bin\Debug\net7.0\client.pdb
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\client.csproj.AssemblyReference.cache
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\client.AssemblyInfoInputs.cache
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\client.AssemblyInfo.cs
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\client.csproj.CoreCompileInputs.cache
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\client.dll
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\refint\client.dll
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\client.pdb
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\client.genruntimeconfig.cache
+C:\Users\pc\hoc code\NetWork\chat rom\client\obj\Debug\net7.0\ref\client.dll

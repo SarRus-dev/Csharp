@@ -1,0 +1,15 @@
+C:\Users\pc\hoc code\OOP\Asm\bin\Debug\net7.0\Asm.exe
+C:\Users\pc\hoc code\OOP\Asm\bin\Debug\net7.0\Asm.deps.json
+C:\Users\pc\hoc code\OOP\Asm\bin\Debug\net7.0\Asm.runtimeconfig.json
+C:\Users\pc\hoc code\OOP\Asm\bin\Debug\net7.0\Asm.dll
+C:\Users\pc\hoc code\OOP\Asm\bin\Debug\net7.0\Asm.pdb
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\Asm.csproj.AssemblyReference.cache
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\Asm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\Asm.AssemblyInfoInputs.cache
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\Asm.AssemblyInfo.cs
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\Asm.csproj.CoreCompileInputs.cache
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\Asm.dll
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\refint\Asm.dll
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\Asm.pdb
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\Asm.genruntimeconfig.cache
+C:\Users\pc\hoc code\OOP\Asm\obj\Debug\net7.0\ref\Asm.dll
